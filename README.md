@@ -14,5 +14,6 @@ Para se crear la base de datos del Reto 4 llamada EcoDosRuedas.
 
 <img width="624" alt="Screen Shot 2022-08-07 at 5 17 35 PM" src="https://user-images.githubusercontent.com/27745159/183313139-ddab785a-7d32-4f42-9d08-792c787a41ea.png">
 
-UI:
+### Interfaz Gráfica:
+
 <img width="724" alt="Screen Shot 2022-08-07 at 5 15 14 PM" src="https://user-images.githubusercontent.com/27745159/183313074-a877841f-52f3-44e1-b8b8-112f65409e9a.png">
