@@ -1,4 +1,5 @@
 # Ecodosruedas 
+Java openJDK vr 14.0.2 build system Maven
 
 ## Reto #5 - Grupo58 Bimestre 2
 
