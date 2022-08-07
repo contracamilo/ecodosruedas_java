@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ecodosruedas_crud:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ecodosruedas_crud_jar</output-path>
+    <root id="archive" name="ecodosruedas_crud.jar">
+      <element id="module-output" name="ecodosruedas_crud" />
+      <element id="module-test-output" name="ecodosruedas_crud" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
