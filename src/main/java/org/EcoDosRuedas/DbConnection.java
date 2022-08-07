@@ -9,7 +9,7 @@ public class DbConnection {
         Connection connection = null;
 
         try {
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/EcoDosRuedas", "root", "cristirueda6192");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/EcoDosRuedas", "****", "********");
             if (connection != null) {
                 System.out.println("DB connected");
             }
