@@ -10,28 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3c3c1d8-d06c-4c95-b7ec-5588fad1a52a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BikeDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BikeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/Brands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BrandsDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BrandsServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BuyIntention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BuyIntentionDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/BuyIntentionServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/ClientDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/ClientServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/Clients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/DbConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/MotorBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/MotorBikeDataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas/MotorBikeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/EcoDosRuedas.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
